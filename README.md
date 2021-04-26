@@ -3,6 +3,7 @@
 ## Description 
 - This purpose of this backend application is to serve as a database for an ecommerce company. When API GET routes are opened in Insomnia Core for categories, products, or tags, then the data for each of these routes is displayed in a formatted JSON. When API POST, PUT, and DELETE routes are tested in Insomnia Core,
 a user is able to successfully create, update, and delete data in the database.
+- Video tutorial: https://drive.google.com/file/d/1tyF85z3VO-mtjUOD3tnBJgkFzpOmHsCs/view
 ## Table of Contents
 * [Technologies Used](https://github.com/matty-bennett/ecommerce-backend/blob/main/README.md#technologies-used)
 * [License](https://github.com/matty-bennett/ecommerce-backend/blob/main/README.md#license)
